@@ -5,15 +5,18 @@ My name is Rebecca Nyagah.
 
 ### About me
 
-I am a lover of life and an avid traveller, i love nature, mountains and life.
+Am a Highly competent and organized Customer service consultant with over 10 years experience, i am a lover of mountains and solo travel, currently having summitted Mt Kenya and most recently Mt kilimanjaro.
+
+I am passionate in learning about new technologies that would revolutionalize and positively disrupt and improve our daily life experiences.
 
 
 ### Background
 
-I am an Information systems graduate, and  currently a customer care 
-consultant with over  10 years experience.
-My interests in programming stem from wanting to leverage on technology and improve on daily life.
+I am an Information systems graduate from the Kenya School of monetary studies.
+My interests in programming stem from wanting to leverage on technology and improve on daily life,  by creating simple, sustainable applications to solve everyday problems.
 
 ### Interests
 Hiking
+
+
 Solo travel
