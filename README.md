@@ -5,7 +5,7 @@ My name is Rebecca Nyagah.
 
 ### About me
 
-Am a Highly competent and organized Customer service consultant with over 10 years experience, i am a lover of mountains and solo travel, currently having summitted Mt Kenya and most recently Mt kilimanjaro.
+Am a  Customer service consultant with over 10 years experience, an avid learner, and pro active thinker.
 
 I am passionate in learning about new technologies that would revolutionalize and positively disrupt and improve our daily life experiences.
 
@@ -19,4 +19,4 @@ My interests in programming stem from wanting to leverage on technology and impr
 Hiking
 
 
-Solo travel
+Travelling.
